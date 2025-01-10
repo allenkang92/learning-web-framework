@@ -58,3 +58,7 @@ def delete_city(city_id : int):
     db.pop(city_id-1)
     
     return {}
+
+# @app.put
+
+# @app.patch
